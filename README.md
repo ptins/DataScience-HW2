@@ -9,7 +9,7 @@ This project uses Python 3.
 Clone this repo with the following command.
 
 ```
-git clone https://github.com/ptins/HW1-DataScience.git
+git clone https://github.com/ptins/HW2-DataScience.git
 ```
 
 ## Enjoy!
