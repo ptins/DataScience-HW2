@@ -9,9 +9,10 @@ This project uses Python 3.
 Clone this repo with the following command.
 
 ```
-git clone https://github.com/ptins/HW1-DataScience.git
+git clone https://github.com/ptins/HW2-DataScience.git
 ```
 
+<<<<<<< HEAD
 ## Task
 
 Given Notre Dame’s football game data for the last two seasons (2015 and 2016), can we
@@ -138,3 +139,6 @@ We can evaluate the model by using the evaluation_metrics function above.
 ## Conclusions
 
 The Naive Bayes algorithm performs the least well, while the C4.5 outperforms the ID3 decision tree. The lack of predictive power in the Naive Bayes case comes from the assumption that all features are conditionally independent.
+=======
+## Enjoy!
+>>>>>>> 496969ff679b5b0ea8361f8d2f5cdfdf1d10f3ba
